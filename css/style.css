@@ -4,6 +4,10 @@
   color: black;
 }
 
+.rowpropio {
+  padding: 0;
+}
+
 @keyframes transformacion {
   0% {
     translate: -100px, -100px;
